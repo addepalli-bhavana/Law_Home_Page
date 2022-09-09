@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,800;1,600;1,700&display=swap");
+* {
+  padding: 0px;
+  margin: 0px;
+  outline: 0px;
+  list-style-type: none;
+}
+body {
+  background-color: #2b2922;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 100px;
+  font-family: poppins;
+}
+.list {
+  display: flex;
+  font-size: 20px;
+  color: #ffffff;
+  align-items: center;
+  opacity: 0.8;
+  font-weight: lighter;
+}
+nav img {
+  height: 45px;
+}
+.list li {
+  margin-left: 50px;
+}
+button {
+  color: #807433;
+  border: 2px solid #807433;
+  padding: 10px 30px;
+  border-radius: 10px;
+  background-color: transparent;
+  font-size: 18px;
+}
+.hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 100px;
+}
+.hero-content h1 {
+  font-size: 75px;
+  color: #ffffff;
+  width: 55%;
+  padding-right: 30px;
+  font-family: "red rose";
+}
+.hero-content p {
+  color: #ffffff;
+  font-size: 22px;
+  width: 45%;
+  font-family: poppins;
+  font-weight: 300;
+  line-height: 35px;
+  opacity: 0.6;
+  padding-left: 30px;
+}
+.hero-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero-image img {
+  height: 100vh;
+  width: 100vw;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.square-one {
+  background-color: #39372d;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.square-two {
+  background-color: #807433;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.circle-one,
+.circle-two {
+  background-color: transparent;
+  border-radius: 25px;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.circle-one {
+  border: 2px solid #807433;
+}
+.circle-two {
+  border: 2px solid #ffffff;
+}
+.circle-one > i {
+  color: #807433;
+}
+.circle-two > i {
+  color: #ffffff;
+}
+.list li:hover {
+  font-weight: 500;
+  font-size: 21px;
+  cursor: pointer;
+}
+.list li button:hover {
+  background-color: #807433;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 19px;
+  border: none;
+  font-weight: 500;
+}
