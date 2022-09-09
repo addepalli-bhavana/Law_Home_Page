@@ -17,7 +17,7 @@
 - I have taken 2 hours to complete this project.
 
 ### **👀HOW MY PROJECT LOOKS LIKE:**
-![Food Restaurant Home Page](ScreenCapture-Of-Law-Home-Page.png)
+![Law Home Page](ScreenCapture-Of-Law-Home-Page.png)
 
 ### 💻It works only in **LAPTOP**(Not Responsive).
 
