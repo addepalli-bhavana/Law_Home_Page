@@ -6,6 +6,7 @@
 
 ### **🛠WHAT I HAVE LEARNT IN THIS PROJECT:** 
 - Adjusting an image to the screen
+- Using icons from Font Awesome Website
 - Setting the line-height
 - designing Buttons 
 - CSS Flex-box
@@ -19,7 +20,7 @@
 ### **👀HOW MY PROJECT LOOKS LIKE:**
 ![Law Home Page](ScreenCapture-Of-Law-Home-Page.png)
 
-### 💻It works only in **LAPTOP**(Not Responsive).
+### 💻This Project looks good only in **Laptop Screen**(Not Responsive)
 
 ### **🚀LIVE LINK:**
 -  This project is hosted on **Netlify**.You can Check it live using below link: 
